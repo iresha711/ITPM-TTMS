@@ -16,5 +16,10 @@ namespace ITPM_TTMS.View__UI_designs_
         {
             InitializeComponent();
         }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

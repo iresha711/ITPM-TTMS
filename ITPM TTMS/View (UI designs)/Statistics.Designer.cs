@@ -157,14 +157,14 @@ namespace ITPM_TTMS.View__UI_designs_
             this.chart2.ChartAreas.Add(chartArea2);
             legend2.Name = "Legend1";
             this.chart2.Legends.Add(legend2);
-            this.chart2.Location = new System.Drawing.Point(65, 52);
+            this.chart2.Location = new System.Drawing.Point(23, 53);
             this.chart2.Name = "chart2";
             series2.ChartArea = "ChartArea1";
             series2.Legend = "Legend1";
             series2.Name = "Total Number of Subjects";
             series2.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
             this.chart2.Series.Add(series2);
-            this.chart2.Size = new System.Drawing.Size(433, 238);
+            this.chart2.Size = new System.Drawing.Size(475, 238);
             this.chart2.TabIndex = 1;
             this.chart2.Text = "chart2";
             // 

@@ -65,7 +65,7 @@ namespace ITPM_TTMS.View__UI_designs_
             // 
             // managelocationstextBox
             // 
-            this.managelocationstextBox.Location = new System.Drawing.Point(331, 54);
+            this.managelocationstextBox.Location = new System.Drawing.Point(330, 54);
             this.managelocationstextBox.Multiline = true;
             this.managelocationstextBox.Name = "managelocationstextBox";
             this.managelocationstextBox.Size = new System.Drawing.Size(192, 24);
